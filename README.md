@@ -1,2 +1,2 @@
-# DE_Resume
+# DE Resume
 Data Engineering Resume
